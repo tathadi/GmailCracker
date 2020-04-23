@@ -36,7 +36,7 @@ def main():
    print '           ()                '
 
 main()
-print '[1] start the brute force attack'
+print '[1] start the attack'
 print '[2] exit'
 option = input('==>')
 if option == 1:
